@@ -41,7 +41,7 @@ Spud: "Have you reversed it in Ghidra?"<br><br>
 Bets: "Yes, it's total gibberish.  We have no idea what it is doing."<br><br>
 Spud: "What did the dissembler view reveal?"<br><br>
 Bets: "Nothing!"<br><br>
-Spud: "What do you mean nothing, it should show some of the C or C++ reconstruction."<br><br>
+Spud: "What do you mean nothing, it should show some of the C or C++ decompliation."<br><br>
 Bets: "That's what I am trying to tell you.  This madman who wrote this appears to have written this entirely in Assembler!"<br><br>
 Spud: "Entirely in Assembler?  That's nonsense.  No one does that anymore these days!"<br><br>
 Bets: "Dammit Spud!  I am telling you they did!  This is no normal binary!  We need to Reverse Engineer this as it could be used to send messages throughout the world to their other underground facilities!"<br><br>
