@@ -24,7 +24,7 @@ DC540 hacking challenge 0x00005b [Assembler CTF].
 
 ## BRIEF
 Bets: "Arvinator have you reached Empress N?"<br><br>
-Arvinator: "Yes Bets, our REDAH cipher was successful.  Empress N has ordered the four REDAH Masters to join us here at the Khanty-Mansiysk Dark Eyes facility."<br><br>
+Arvinator: "Yes Bets, our REDAH cipher was successful.  Empress N has ordered Minister Gabrielle and the four REDAH Masters to join us here at the Khanty-Mansiysk Dark Eyes facility."<br><br>
 Bets: "Z, has Spud arrived?  You will lead the Red Team offensive and I need Spud to lead the Blue Team defensive!"<br><br>
 Z: "Yes, Spud has been given a short hiatus to help us out from U.S. Cyber Command directly.  He is on his way now.  He will arrive within 10 minutes."<br><br>
 Bets: "Z, I need you to ensure you redirect the Dark Eyes 1337 gate feeds as you have done before so they cannot monitor our movements.  I also need you disable access to the room just south of Sector 42 where we found their cloud interface."<br><br>
