@@ -46,7 +46,7 @@ Bets: "That's what I am trying to tell you.  This madman who wrote this appears 
 Spud: "Entirely in Assembler?  That's nonsense.  No one does that anymore these days!"<br><br>
 Bets: "Dammit Spud!  I am telling you they did!  This is no normal binary!  We need to Reverse Engineer this as it could be used to send messages throughout the world to their other underground facilities!"<br><br>
 Z: "Look, the REDAH Masters have arrived!"<br><br>
-Bets: "Welcome REDAH Masters!  Your Assembler expertise will be challenged here!  Spud will lead your efforts.  I am asking you four and Arvinator with Spud try to think outside the box and see exactly what this strange binary is doing so we can begin to deter their extensive cyber offensive!"<br><br>
+Bets: "Welcome REDAH Masters!  Your Assembler expertise will be challenged here!  Spud will lead your efforts.  I am asking Minister Gabrielle, Arvinator, Spud and you four to try to think outside the box and see exactly what this strange binary is doing so we can begin to deter their extensive cyber offensive!"<br><br>
 Gabrielle: "I am Gabrielle, I am the REDAH Minister Of Education where I lead the REDAH Masters and direct our Universal STEM Education.  We will work with your team and will crack this binary!"<br><br>
 Bets: "Thank you Minister Gabrielle!  Spud, Arvinator and your team are our only hope in this most challenging time!  We need to get movement so we can disrupt their offensive infrastructure!"<br><br>
 Z: "I am heading down to offensively attack their monitoring capabilities."<br><br>
