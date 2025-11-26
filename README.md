@@ -1,5 +1,9 @@
 ![image](https://github.com/mytechnotalent/dc540-0x00005b/blob/main/DC540%20Angels%20Of%20Death.png?raw=true)
 
+## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
+
+<br>
+
 # dc540-0x00005b
 DC540 hacking challenge 0x00005b [Assembler CTF].
 
@@ -22,11 +26,7 @@ DC540 hacking challenge 0x00005b [Assembler CTF].
 
 <br>
 
-## FREE Reverse Engineering Self-Study Course [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
-
-<br>
-
-## BRIEF
+# BRIEF
 Bets: "Arvinator have you reached Empress N?"<br><br>
 Arvinator: "Yes Bets, our REDAH cipher was successful.  Empress N has ordered Minister Gabrielle and the four REDAH Masters to join us here at the Khanty-Mansiysk Dark Eyes facility."<br><br>
 Bets: "Z, has Spud arrived?  You will lead the Red Team offensive and I need Spud to lead the Blue Team defensive!"<br><br>
@@ -57,8 +57,6 @@ Z: "I am heading down to offensively attack their monitoring capabilities."<br><
 Bets: "Good!  Spud, take the REDAH Masters, Minister Gabrielle and Arvinator to the room just south of Sector 42!"<br><br>
 Spud: "Will do!  I can't wait to dive into this challenge!"<br><br>
 
-<br>
-
 ## MISSION
 You have been selected by the DC540 ANGELS OF DEATH to be the Reverse Engineer on this mission. Your task is to reverse engineer the `сообщение` binary. Report the flag back to, "Master Assembler" with your results by sending a private Discord DM to @P4R4D0X in the DC540 Discord channel listed above.
 
@@ -67,5 +65,5 @@ You have been selected by the DC540 ANGELS OF DEATH to be the Reverse Engineer o
 
 <br>
 
-## License
+# License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
